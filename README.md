@@ -4,14 +4,14 @@
 Python 3.9.5
 
 ### Dependencias
-Para instalar as dependencias é necessário entrar na pasta do projeto "leveTeste" e usando um terminal de sua preferência rodar o seguinte comando:
+Para instalar as dependencias é necessário entrar na pasta do projeto "leve-teste" e usando um terminal de sua preferência rodar o seguinte comando:
 ```
 pip install -r Requirement.txt
 ```
 
 
 ## Criar Models e DB
-Para criar os modelos e DB é necessário entrar na pasta do projeto "leveTeste" e usando um terminal de sua preferência rodar os seguintes comandos:
+Para criar os modelos e DB é necessário entrar na pasta do projeto "leve-teste" e usando um terminal de sua preferência rodar os seguintes comandos:
 
 **makemigration**
 ```
@@ -63,7 +63,7 @@ Running migrations:
 ```
 
 ## Iniciar o servidor
-Para iniciar o servidor BE é necessário entrar na pasta do projeto "leveTeste" e usando um terminal de sua preferência rodar o seguinte comando:
+Para iniciar o servidor BE é necessário entrar na pasta do projeto "leve-teste" e usando um terminal de sua preferência rodar o seguinte comando:
 ```
 python manage.py runserver
 ```
